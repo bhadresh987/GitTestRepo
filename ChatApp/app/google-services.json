@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "783966501895",
+    "project_id": "code-info-chatapp",
+    "storage_bucket": "code-info-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783966501895:android:2db47f6825150b4845fea2",
+        "android_client_info": {
+          "package_name": "com.bhadresh.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783966501895-9mf69j2527h5sp4tv1n7p0096orr2obh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUWnKX8zSORrjqE7atzcYMuMb1JmLpwdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783966501895-9mf69j2527h5sp4tv1n7p0096orr2obh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
